@@ -5,6 +5,7 @@ public static void main(String args[]) {
 	int i=20;
 	int j=0;
 	int data;
+	int i+j;
 	try{
 		data=i/j;
 		
